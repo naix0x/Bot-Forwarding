@@ -81,7 +81,7 @@ If you find a bug or want to suggest a new feature, please open an issue or subm
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://github.com/naix0x/RSS-Telegram-Channels/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/naix0x/Bot-Forwarding/blob/main/LICENSE).
 
 ## 👥 Forks and Stars
 
