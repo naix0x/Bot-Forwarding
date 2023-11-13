@@ -25,6 +25,8 @@ To use this bot, follow these steps:
 1. Clone the repository
 ```javascript
 git clone https://github.com/naix0x/Bot-Forwarding.git forwarding
+```
+
 ``` javascript
 cd forwarding
 ```
