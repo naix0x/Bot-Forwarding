@@ -10,11 +10,10 @@ This Telegram bot is built using the following technologies:
 - 🚀 Nodejs - Language 
 - 🤖 Node Telegram Bot Api - Framework
 - 📨 Forwarding - Reposting
-- 🗿 Before Forwarding 
+- 🗿 Before Forwarding & After Forwarding
 <p align="center">
   <img src="https://github.com/naix0x/Bot-Forwarding/blob/main/Screenshot_20231113-131455_Telegram.jpg" />
 </p>
-- 🗿 After Forwarding with Bot
 <p align="center">
   <img src="https://github.com/naix0x/Bot-Forwarding/blob/main/Screenshot_20231113-131507_Telegram.jpg" />
 </p>
