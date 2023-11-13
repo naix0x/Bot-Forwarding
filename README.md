@@ -1,7 +1,7 @@
 # BOT Tele Forwarding
 Welcome to the 💻 Bot for forwarding private channels (other people) to our own private channels. which allows sending many messages at once, this bot works if you forward the message to this bot and this bot will immediately repost it again without saying "Forward" This bot only needs to be set as admin on our personal channels..
 
-This Rss feed bot can also display instant views, making it easier for readers without having to open the browser again.
+And this bot is very suitable for those of you who have channels and want to upload files, videos, photos or text without having to rewrite them without having a forwarding tag on the channel
 
 ## 🚀 Technologies
 
