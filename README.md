@@ -23,6 +23,11 @@ This Telegram bot is built using the following technologies:
 To use this bot, follow these steps:
 
 1. Clone the repository
+```javascript
+git clone https://github.com/naix0x/Bot-Forwarding.git forwarding
+``` javascript
+cd forwarding
+```
 2. Install the required dependencies using 
 
 To run this bot, we need several requirements to run the script
