@@ -1,3 +1,12 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/Bot-Forwarding/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/naix0x/Bot-Forwarding)
+![GitHub contributors](https://img.shields.io/github/contributors/naix0x/Bot-Forwarding)
+![GitHub last commit](https://img.shields.io/github/last-commit/naix0x/Bot-Forwarding)
+![GitHub forks](https://img.shields.io/github/forks/naix0x/Bot-Forwarding)
+![GitHub issues](https://img.shields.io/github/issues-raw/naix0x/Bot-Forwarding)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/naix0x/Bot-Forwarding)
+![GitHub stars](https://img.shields.io/github/stars/naix0x/Bot-Forwarding)
+
 # BOT Tele Forwarding
 Welcome to the 💻 Bot for forwarding private channels (other people) to our own private channels. which allows sending many messages at once, this bot works if you forward the message to this bot and this bot will immediately repost it again without saying "Forward" This bot only needs to be set as admin on our personal channels..
 
